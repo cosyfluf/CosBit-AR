@@ -2,7 +2,7 @@
 
 **CosBit AR (Amateur Radio)** is a robust digital mode software designed for acoustic data transmission over radio (HF/VHF/UHF). It uses AFSK modulation combined with strong Forward Error Correction (FEC) to ensure message integrity even in noisy environments.
 
-![CosBit Interface](https://via.placeholder.com/800x400?text=CosBit+AR+Screenshot)
+![CosBit Interface](https://github.com/cosyfluf/Image-downhill/blob/e7fb21ef463b50f21667c529344103db3e15d85e/image.png?raw=true)
 
 ## Features
 
